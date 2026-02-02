@@ -1,6 +1,7 @@
-# [Modesty Reserves](https://operarioribeiro.github.com/ModestReserves)
+# [Modesty Reserves](https://github.com/operarioribeiro/ModestReserves)
 
 > _"If there are nude beaches there's gotta be modest beaches for those who have nudity trauma."_
+> 
 ## Open Project:
 
 **Modesty Reserves**, that can also be called **Culturist Resorts** is a public international law (PIL) jurisprudence for public spaces reservations for modest people. It was developed due to requests from secular and religious students of the masterclass course [Modest Fashion Open Ethics](https://academia.edu/130298444/Modest_Fashion_Open_Ethics) in the most diverse conditions for us to allow workers and traumatized people to feel more comfortable in beaches and parks worldwide with a reserved place for them.
